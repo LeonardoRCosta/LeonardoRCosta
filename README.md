@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=leonardorcosta&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=171717&hide_border=true&locale=en" alt="leonardorcosta" /></p>
 
-
+![snake gif](https://github.com/LeonardoRCosta/LeonardoRCosta/blob/output/github-contribution-grid-snake.svg)
