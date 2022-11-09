@@ -20,7 +20,7 @@
 <hr />
 <div>
 <h3>Contact Me:</h3>
- <a href = "mailto:lrcosta04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lrcosta04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?&color=critical&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://linkedin.com/in/leonardo-ramos-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://wa.me/5511992934179" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="https://wa.me/5511992934179" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?&color=brightgreen&style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>    
