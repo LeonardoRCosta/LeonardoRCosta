@@ -26,7 +26,6 @@
 <hr />
 <div align="left" width=100%>
 <a href="https://github.com/LeonardoRCosta">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorcosta&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=171717&hide_border=true&locale=en&include_all_commits=true&count_private=true" alt="leonardorcosta" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardorcosta&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=171717&hide_border=true&locale=en&layout=compact" alt="leonardorcosta" />
 </div>
 <hr />
