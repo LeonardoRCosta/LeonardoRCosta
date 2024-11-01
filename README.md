@@ -1,9 +1,11 @@
 <h1 align="left">Hey 👋, I'm Leonardo Ramos Costa</h1>
-<h3 align="left">A Fullstack Developer</h3>
+<h3 align="left">A Backend Software Engineer</h3>
 
-- 🎓 I'm studying **System Development and Analysis at FIAP**
+- 🎓 I graduated in **System Development and Analysis at FIAP**
 
-- 🧑‍💻 I'm working at **Grupo GCB** as a **Backend Developer**
+- 🎓 I'm pursuing an MBA in **Software Engineering** at **USP**
+
+- 🧑‍💻 I'm working at **Grupo GCB** as a **Backend Software Engineer**
 
 - 👨‍💻 Currently learning **Nestjs, Microservices, Events, Typescript, Jest.**
 
@@ -18,7 +20,7 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> 
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="40" height="40"/> </a> 
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nest" width="40" height="40"/> </a> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
