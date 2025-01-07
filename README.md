@@ -28,6 +28,7 @@
 <hr />
 <div align="left" width=100%>
 <a href="https://github.com/LeonardoRCosta">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/674644695434bf319a34e02b?variant=dark" alt="roadmap.sh"/></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardorcosta&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=171717&hide_border=true&locale=en&layout=compact" alt="leonardorcosta" />
 </div>
 <hr />
